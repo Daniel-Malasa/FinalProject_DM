@@ -10,7 +10,6 @@
       <%
          Date date = new Date();
          out.print( "<h2 align = \"center\">" +date.toString()+"</h2>");
-         Daniel Malsa Change
       %>
    </body>
 </html>
